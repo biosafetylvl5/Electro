@@ -1,0 +1,38 @@
+Partlist exported from C:/Users/master/Documents/eagle/electro/backup.sch at 4/10/2015 12:38:32 PM
+
+Part      Value            Device           Package             Description                          MF MPN OC_FARNELL OC_NEWARK SPICEMODEL SPICEPREFIX SPICETYPE
+C1        10uf             CPOL-USE2,5-6E   E2,5-6E             POLARIZED CAPACITOR, American symbol                                                             
+C2        10uF             CPOL-USE2,5-6E   E2,5-6E             POLARIZED CAPACITOR, American symbol                                                             
+C3        .1uf             C-US025-025X050  C025-025X050        CAPACITOR, American symbol                                                                       
+C4        47uF             CPOL-USE2.5-6    E2,5-6              POLARIZED CAPACITOR, American symbol                                                             
+C5        47uF             CPOL-USE2.5-6    E2,5-6              POLARIZED CAPACITOR, American symbol                                                             
+IC1       LM386N-1         LM386N-1         DIL08               Low Voltage Audio Power Amplifier                                                                
+IC3       7805             78XXL            78XXL               VOLTAGE REGULATOR                                                                                
+J1        AVR_SPI_PRG_6PTH AVR_SPI_PRG_6PTH 2X3                 AVR ISP 6 Pin                                                                                    
+J2                         DCJ0303          DCJ0303             DC POWER JACK                               unknown    unknown                                   
+JP1       M025MM           M025MM           SCREWTERMINAL-5MM-2 Standard 2-pin 0.1" header. Use with                                                             
+JP2       M025MM           M025MM           SCREWTERMINAL-5MM-2 Standard 2-pin 0.1" header. Use with                                                             
+LED1                       LED_ELD260       LED_LD260           LED                                                              NONE       D           diode    
+LED2                       LED_ELD260       LED_LD260           LED                                                              NONE       D           diode    
+Q1        TIP31C           TIP31C           TO220               NPN Transistor                                                                                   
+Q2        BC548            BC548            TO92-EBC            NPN Transistor                                                                                   
+Q3        TIP31C           TIP31C           TO220               NPN Transistor                                                                                   
+Q4        TIP31C           TIP31C           TO220               NPN Transistor                                                                                   
+Q5        TIP31C           TIP31C           TO220               NPN Transistor                                                                                   
+Q6        TIP31C           TIP31C           TO220               NPN Transistor                                                                                   
+R1        50k              3RP/1610N        3RP/1610N           16mm Potentiometer one level                                                                     
+R2        1.5k             R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R3        1k               3RP/1610N        3RP/1610N           16mm Potentiometer one level                                                                     
+R4        1k               R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R5        510              R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R6        10k              R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R7        390              R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R8        50k              3RP/1610N        3RP/1610N           16mm Potentiometer one level                                                                     
+R9        50k              3RP/1610N        3RP/1610N           16mm Potentiometer one level                                                                     
+R10       1k               R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R11       1.5k             R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+R12       1.5k             R0207/10         0207/10             RESISTOR, European symbol                                        NONE       R                    
+STANDOFF2 STAND-OFF        STAND-OFF        STAND-OFF           #4 Stand Off                                                                                     
+STANDOFF3 STAND-OFF        STAND-OFF        STAND-OFF           #4 Stand Off                                                                                     
+STANDOFF4 STAND-OFF        STAND-OFF        STAND-OFF           #4 Stand Off                                                                                     
+U1        ATTINY85-20P     ATTINY85-20P     PDIP08_300MIL       ATMEL ATtiny 85                                                                                  
